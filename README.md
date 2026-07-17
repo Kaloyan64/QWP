@@ -46,7 +46,7 @@ State files:
 
 ## Spec Reference
 
-See the language design document in the repository wiki, or run:
+See the language design document by running:
 
 ```bash
 qwp --spec
