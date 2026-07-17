@@ -1,0 +1,2 @@
+[console_scripts]
+qwp = qwp.cli:main
