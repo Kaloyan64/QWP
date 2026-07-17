@@ -8,8 +8,9 @@ An esoteric scripting language where identifiers are invisible, memory rotates u
 pip install -e .
 qwp examples/hello.qwp
 ```
-      or:
-```
+or:
+
+```bash
 cd examples
 qwp hello.qwp
 ```
@@ -18,7 +19,9 @@ Force a non-Tuesday run (recommended for first success):
 
 ```bash
 qwp examples/hello.qwp --day monday
-      or
+```
+or
+```QW+
 cd examples
 qwp hello.qwp --day monday
 ```
