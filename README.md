@@ -26,6 +26,15 @@ or:
 cd examples
 qwp hello.qwp --day monday
 ```
+## File Extensions
+
+QW+ source files use:
+
+`.qwp`
+
+State files:
+
+`.qwstate`
 
 ## Core Concepts
 
