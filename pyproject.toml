@@ -1,0 +1,18 @@
+[project]
+name = "qw-plus"
+version = "0.1.0"
+description = "QW+ — Quixotic Whitespace Plus: the most psychologically taxing esoteric scripting language"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[project.scripts]
+qwp = "qwp.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["qwp*"]

@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+qw_plus.egg-info/PKG-INFO
+qw_plus.egg-info/SOURCES.txt
+qw_plus.egg-info/dependency_links.txt
+qw_plus.egg-info/entry_points.txt
+qw_plus.egg-info/top_level.txt
+qwp/__init__.py
+qwp/__main__.py
+qwp/butterfly.py
+qwp/cli.py
+qwp/gaslight.py
+qwp/glyphs.py
+qwp/lexer.py
+qwp/loom.py
+qwp/runtime.py
+tests/test_qwp.py
