@@ -6,13 +6,15 @@ An esoteric scripting language where identifiers are invisible, memory rotates u
 
 ```bash
 pip install -e .
-qwp examples/hello.qw
+qwp examples/hello.qwp
+or cd examples qwp hellp.qwp
 ```
 
 Force a non-Tuesday run (recommended for first success):
 
 ```bash
-qwp examples/hello.qw --day monday
+qwp examples/hello.qwp --day monday
+or cd examples qwp hello.qwp --day monday
 ```
 
 ## Core Concepts
