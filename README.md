@@ -9,7 +9,7 @@ pip install -e .
 qwp examples/hello.qwp
       or
 cd examples
-qwp hellp.qwp
+qwp hello.qwp
 ```
 
 Force a non-Tuesday run (recommended for first success):
