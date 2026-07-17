@@ -20,8 +20,9 @@ Force a non-Tuesday run (recommended for first success):
 ```bash
 qwp examples/hello.qwp --day monday
 ```
-or
-```QW+
+or:
+
+```bash
 cd examples
 qwp hello.qwp --day monday
 ```
