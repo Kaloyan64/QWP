@@ -7,7 +7,9 @@ An esoteric scripting language where identifiers are invisible, memory rotates u
 ```bash
 pip install -e .
 qwp examples/hello.qwp
-      or
+```
+      or:
+```
 cd examples
 qwp hello.qwp
 ```
